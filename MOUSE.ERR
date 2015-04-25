@@ -1,0 +1,14 @@
+all.h(68): Warning! W138: No newline at end of file
+MOUSE.C(129): Warning! W101: Non-portable pointer conversion
+MOUSE.C(129): Note! I2003: source conversion type is 'int '
+MOUSE.C(129): Note! I2004: target conversion type is 'unsigned long *'
+MOUSE.C(129): Note! I2002: 'time' defined in: C:\WATCOM\H\time.h(143)
+MOUSE.C(130): Warning! W101: Non-portable pointer conversion
+MOUSE.C(130): Note! I2003: source conversion type is 'int '
+MOUSE.C(130): Note! I2004: target conversion type is 'unsigned long *'
+MOUSE.C(130): Note! I2002: 'time' defined in: C:\WATCOM\H\time.h(143)
+MOUSE.C(133): Warning! W101: Non-portable pointer conversion
+MOUSE.C(133): Note! I2003: source conversion type is 'int '
+MOUSE.C(133): Note! I2004: target conversion type is 'unsigned long *'
+MOUSE.C(133): Note! I2002: 'time' defined in: C:\WATCOM\H\time.h(143)
+MOUSE.C(139): Warning! W107: Missing return value for function 'main'
